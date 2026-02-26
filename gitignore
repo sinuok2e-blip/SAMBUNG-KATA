@@ -1,0 +1,23 @@
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Sensitive Source
+bejir_source.lua
+bejir_asli.lua
+local_obfuscator.py
+*.py
+*.txt
+*.js
+node_modules/
